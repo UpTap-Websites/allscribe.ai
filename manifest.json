@@ -5,7 +5,7 @@
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "AI-Powered Meeting Transcription & Summarization - Allscribe Turn your meetings into actionable notes. Allscribe AI accurately records, transcribes (99.9% accuracy), and summarizes audio/video meetings. Get clear, customized summaries that highlight key decisions and action items—automatically.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
